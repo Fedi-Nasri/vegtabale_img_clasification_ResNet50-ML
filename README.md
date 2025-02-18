@@ -1,6 +1,6 @@
 # vegtabale_img_clasification_Resnet50V2-ML
 
-This project performs vegetable image classification using TensorFlow, Resnet50V2
+This project performs vegetable image classification using TensorFlow,keras, Resnet50V2
 
 ## Features
 
